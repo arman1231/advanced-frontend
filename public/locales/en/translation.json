@@ -1,6 +1,9 @@
 {
-    "Тестовый перевод": "Test example",
-    "Перевод": "Translate",
-    "Главная страница": "Main Page",
-    "Lang": "English"
+  "Тестовый перевод": "Test example",
+  "Перевод": "Translate",
+  "Главная страница": "Main Page",
+  "Lang": "English",
+  "stranica-ne-naidena": "Page not found",
+  "proizoshla-nepredvidennaya-oshibka": "Unexpected error happened",
+  "obnovit-stranicu": "Refresh page"
 }

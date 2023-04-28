@@ -5,7 +5,7 @@
 @import "./themes/normal";
 
 .app {
-  font-family: var(--font-m);
+  font: var(--font-m);
   background: var(--bg-color);
   color: var(--primary-color);
   min-height: 100vh;
